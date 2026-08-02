@@ -1,0 +1,1 @@
+This repository is focusing on the basics of football data analytics. Scraping the web for player statistics across a full season and determining the performance based on metrics such as minutes playd, and overperforming / underperforming expected goal and assist metrics. 
