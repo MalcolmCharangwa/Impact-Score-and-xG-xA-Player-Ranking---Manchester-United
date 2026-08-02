@@ -1,0 +1,29 @@
+index,league,season,player,nation,pos,age,born,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes
+,,,,,,,,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK
+0,ENG-Premier League,2526,Altay Bayındır,TUR,GK,27,1998,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+1,ENG-Premier League,2526,Amad Diallo,CIV,MF,23,2002,32,27,2341,26.0,2,3,5,2,0,0,2,0,0.08,0.12,0.19,0.08,0.19
+2,ENG-Premier League,2526,Ayden Heaven,ENG,DF,18,2006,17,11,924,10.3,0,1,1,0,0,0,2,0,0.0,0.1,0.1,0.0,0.1
+3,ENG-Premier League,2526,Bendito Mantato,ENG,MF,17,2008,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+4,ENG-Premier League,2526,Benjamin Šeško,SVN,FW,22,2003,30,17,1643,18.3,11,1,12,11,0,0,2,0,0.6,0.05,0.66,0.6,0.66
+5,ENG-Premier League,2526,Bruno Fernandes,POR,MF,30,1994,35,35,3063,34.0,9,21,30,5,4,6,5,0,0.26,0.62,0.88,0.15,0.76
+6,ENG-Premier League,2526,Bryan Mbeumo,CMR,"MF,FW",25,1999,33,31,2609,29.0,11,3,14,11,0,0,4,0,0.38,0.1,0.48,0.38,0.48
+7,ENG-Premier League,2526,Casemiro,BRA,MF,33,1992,34,33,2571,28.6,9,2,11,9,0,0,11,1,0.32,0.07,0.39,0.32,0.39
+8,ENG-Premier League,2526,Diogo Dalot,POR,"DF,MF",26,1999,34,29,2614,29.0,1,3,4,1,0,0,5,0,0.03,0.1,0.14,0.03,0.14
+9,ENG-Premier League,2526,Harry Maguire,ENG,DF,32,1993,23,19,1653,18.4,1,2,3,1,0,0,3,1,0.05,0.11,0.16,0.05,0.16
+10,ENG-Premier League,2526,Jack Fletcher,ENG,MF,18,2007,3,0,108,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+11,ENG-Premier League,2526,Joshua Zirkzee,NED,"FW,MF",24,2001,24,5,626,7.0,2,1,3,2,0,0,3,0,0.29,0.14,0.43,0.29,0.43
+12,ENG-Premier League,2526,Kobbie Mainoo,ENG,MF,20,2005,28,16,1662,18.5,1,2,3,1,0,0,2,0,0.05,0.11,0.16,0.05,0.16
+13,ENG-Premier League,2526,Leny Yoro,FRA,DF,19,2005,32,18,1740,19.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+14,ENG-Premier League,2526,Lisandro Martínez,ARG,DF,27,1998,18,13,1233,13.7,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+15,ENG-Premier League,2526,Luke Shaw,ENG,DF,30,1995,38,38,3219,35.8,1,1,2,1,0,0,9,0,0.03,0.03,0.06,0.03,0.06
+16,ENG-Premier League,2526,Manuel Ugarte,URU,MF,24,2001,22,8,887,9.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+17,ENG-Premier League,2526,Mason Mount,ENG,MF,26,1999,23,12,1017,11.3,3,0,3,3,0,0,2,0,0.27,0.0,0.27,0.27,0.27
+18,ENG-Premier League,2526,Matheus Cunha,BRA,"MF,FW",26,1999,33,29,2494,27.7,10,2,12,10,0,0,4,0,0.36,0.07,0.43,0.36,0.43
+19,ENG-Premier League,2526,Matthijs de Ligt,NED,DF,25,1999,13,13,1170,13.0,1,0,1,1,0,0,0,0,0.08,0.0,0.08,0.08,0.08
+20,ENG-Premier League,2526,Noussair Mazraoui,MAR,"DF,MF",27,1997,20,11,985,10.9,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+21,ENG-Premier League,2526,Patrick Dorgu,DEN,MF,20,2004,26,15,1449,16.1,4,4,8,4,0,0,5,0,0.25,0.25,0.5,0.25,0.5
+22,ENG-Premier League,2526,Senne Lammens,BEL,GK,23,2002,32,32,2880,32.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+23,ENG-Premier League,2526,Shea Lacey,ENG,FW,18,2007,3,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+24,ENG-Premier League,2526,Tyler Fletcher,SCO,MF,18,2007,2,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+25,ENG-Premier League,2526,Tyler Fredricson,ENG,DF,20,2005,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+26,ENG-Premier League,2526,Tyrell Malacia,NED,DF,25,1999,3,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
